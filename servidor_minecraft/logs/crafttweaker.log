@@ -1,30 +1,41 @@
-[18:15:23.584][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[18:15:23.645][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[18:15:23.772][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[18:15:23.773][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[18:15:23.821][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
-[18:15:26.137][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[18:15:26.138][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.50'
-[18:15:26.149][INFO][CraftTweaker]: - 'mekanism' at version '10.4.6'
-[18:15:34.071][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
-[18:15:34.323][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:15:35.107][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:15:35.183][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
-[18:15:35.183][INFO][Mekanism]: Registering 0 custom gases.
-[18:15:35.186][INFO][Mekanism]: Registering 0 custom infuse types.
-[18:15:35.191][INFO][Mekanism]: Registering 0 custom pigments.
-[18:15:35.195][INFO][Mekanism]: Registering 0 custom slurries.
-[18:15:35.473][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[18:15:35.545][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:15:35.553][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:15:35.603][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[18:15:54.315][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[18:15:54.345][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:15:54.350][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:15:54.364][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[18:15:55.161][INFO][CraftTweaker]: crafttweaker.reload.start
-[18:15:55.164][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[18:15:55.185][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:15:55.340][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:15:55.351][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[18:15:55.353][INFO][CraftTweaker]: crafttweaker.reload.complete
+[18:04:38.562][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[18:04:38.606][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[18:04:38.692][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:04:38.695][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:04:38.697][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
+[18:04:40.305][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:04:40.306][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.50'
+[18:04:40.306][INFO][CraftTweaker]: - 'mekanism' at version '10.4.6'
+[18:04:46.809][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
+[18:04:47.019][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:04:47.559][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:04:47.624][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
+[18:04:47.624][INFO][Mekanism]: Registering 0 custom gases.
+[18:04:47.627][INFO][Mekanism]: Registering 0 custom infuse types.
+[18:04:47.632][INFO][Mekanism]: Registering 0 custom pigments.
+[18:04:47.634][INFO][Mekanism]: Registering 0 custom slurries.
+[18:04:47.928][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[18:04:48.004][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:04:48.006][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[18:04:48.020][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[18:05:07.766][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[18:05:07.796][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:05:07.802][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[18:05:07.816][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[18:05:08.503][INFO][CraftTweaker]: crafttweaker.reload.start
+[18:05:08.508][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[18:05:08.532][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:05:08.754][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:05:08.758][INFO][CraftTweaker-ZenCode]: Loading file 'generated 2025-01-21-06-40-23.zs' with priority 0
+[18:05:08.758][INFO][CraftTweaker-ZenCode]: Loading file 'generated 2025-01-21-06-40-35.zs' with priority 0
+[18:05:08.758][INFO][CraftTweaker-ZenCode]: Loading file 'generated 2025-01-21-06-41-14.zs' with priority 0
+[18:05:08.759][INFO][CraftTweaker-ZenCode]: Loading file 'generated 2025-01-21-06-41-31.zs' with priority 0
+[18:05:08.759][INFO][CraftTweaker-ZenCode]: Loading file 'generated 2025-01-21-07-50-17.zs' with priority 0
+[18:05:08.802][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:generated-2025-01-21-06-40-21' that outputs: '<item:minecraft:iron_sword>'
+[18:05:08.803][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:generated-2025-01-21-06-40-34' that outputs: '<item:minecraft:iron_trapdoor>'
+[18:05:08.803][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:generated-2025-01-21-06-41-13' that outputs: '<item:vs_tournament:prop_small>'
+[18:05:08.803][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:generated-2025-01-21-06-41-30' that outputs: '<item:minecraft:air>'
+[18:05:08.804][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:generated-2025-01-21-07-50-17' that outputs: '<item:minecraft:iron_trapdoor>'
+[18:05:08.804][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[18:05:08.806][INFO][CraftTweaker]: crafttweaker.reload.complete
+[18:05:08.806][INFO][CraftTweaker]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

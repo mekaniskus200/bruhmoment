@@ -469,7 +469,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-21 22:01:06 +0000",
+      "rocky_shrubland": "2025-01-21 22:05:08 +0000",
       "maple_woods": "2025-01-19 21:39:14 +0000",
+      "orchard": "2025-01-21 22:04:36 +0000",
+      "pasture": "2025-01-21 21:32:38 +0000",
       "lavender_field": "2025-01-19 21:47:06 +0000",
       "prairie": "2025-01-19 21:47:17 +0000",
       "gravel_beach": "2025-01-19 21:42:42 +0000"
@@ -494,6 +498,7 @@
       "minecraft:taiga": "2025-01-19 21:39:55 +0000",
       "minecraft:cherry_grove": "2025-01-19 22:10:19 +0000",
       "minecraft:sunflower_plains": "2025-01-19 23:26:35 +0000",
+      "minecraft:birch_forest": "2025-01-21 22:01:07 +0000",
       "minecraft:beach": "2025-01-19 21:40:08 +0000",
       "minecraft:river": "2025-01-19 21:46:19 +0000",
       "minecraft:stony_shore": "2025-01-19 21:46:33 +0000",
@@ -529,12 +534,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-19 23:51:31 +0000",
+      "minecraft:zoglin": "2025-01-21 20:52:29 +0000",
       "minecraft:spider": "2025-01-19 21:42:48 +0000",
       "minecraft:creeper": "2025-01-19 22:46:58 +0000",
       "minecraft:phantom": "2025-01-19 22:29:31 +0000",
       "minecraft:zombified_piglin": "2025-01-19 22:27:20 +0000",
       "minecraft:husk": "2025-01-19 22:29:07 +0000",
       "minecraft:zombie": "2025-01-19 22:03:08 +0000",
+      "minecraft:drowned": "2025-01-21 20:52:42 +0000",
       "minecraft:zombie_villager": "2025-01-19 23:47:06 +0000"
     },
     "done": false
@@ -563,6 +570,7 @@
       "bread": "2025-01-19 23:34:26 +0000",
       "cookie": "2025-01-19 21:49:30 +0000",
       "rotten_flesh": "2025-01-19 22:27:25 +0000",
+      "golden_carrot": "2025-01-21 22:10:28 +0000",
       "carrot": "2025-01-19 23:11:02 +0000"
     },
     "done": false
@@ -621,6 +629,24 @@
     },
     "done": true
   },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-01-20 00:09:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-01-20 00:13:11 +0000"
+    },
+    "done": true
+  },
+  "trajanscore:parts/steel_manufacturer": {
+    "criteria": {
+      "requirement": "2025-01-20 00:35:05 +0000"
+    },
+    "done": true
+  },
   "trajanscore:parts/tracks": {
     "criteria": {
       "requirement": "2025-01-20 00:36:12 +0000"
@@ -633,33 +659,105 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-01-20 00:13:11 +0000"
-    },
-    "done": true
-  },
   "trajanscore:parts/plates": {
     "criteria": {
       "requirement": "2025-01-20 00:38:50 +0000"
     },
     "done": true
   },
-  "mekanismgenerators:heat_generator": {
-    "criteria": {
-      "heat_generator": "2025-01-20 00:09:31 +0000"
-    },
-    "done": true
-  },
-  "trajanscore:parts/steel_manufacturer": {
-    "criteria": {
-      "requirement": "2025-01-20 00:35:05 +0000"
-    },
-    "done": true
-  },
   "trajanscore:parts/steering_wheel": {
     "criteria": {
       "requirement": "2025-01-20 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "trajanscore:parts/engine_fabricator": {
+    "criteria": {
+      "requirement": "2025-01-21 19:43:55 +0000"
+    },
+    "done": true
+  },
+  "trajanscore:parts/engine": {
+    "criteria": {
+      "requirement": "2025-01-21 19:46:07 +0000"
+    },
+    "done": true
+  },
+  "trajanscore:parts/turret_factory": {
+    "criteria": {
+      "requirement": "2025-01-21 19:52:04 +0000"
+    },
+    "done": true
+  },
+  "trajanscore:parts/turrets": {
+    "criteria": {
+      "requirement": "2025-01-21 19:53:04 +0000"
+    },
+    "done": true
+  },
+  "jeg:waterpipe_shotgun": {
+    "criteria": {
+      "Item": "2025-01-21 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "wooltostring:recipes/misc/wool_carpets": {
+    "criteria": {
+      "has_ingredient": "2025-01-21 20:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-21 20:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-21 20:30:37 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-01-21 20:49:45 +0000"
+    },
+    "done": true
+  },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2025-01-21 20:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-01-21 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "vs_tournament:ship_assemble": {
+    "criteria": {
+      "requirement": "2025-01-21 21:38:59 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2025-01-21 21:42:53 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap_workbench": {
+    "criteria": {
+      "Item": "2025-01-21 21:50:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-01-21 22:43:31 +0000"
     },
     "done": true
   },

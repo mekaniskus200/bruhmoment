@@ -1031,5 +1031,101 @@
     },
     "done": true
   },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-01-21 20:30:55 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap_workbench": {
+    "criteria": {
+      "Item": "2025-01-21 21:34:01 +0000"
+    },
+    "done": true
+  },
+  "trajanscore:parts/plates": {
+    "criteria": {
+      "requirement": "2025-01-21 21:40:48 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-01-21 22:18:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-01-21 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-01-21 22:48:03 +0000"
+    },
+    "done": true
+  },
+  "jeg:circuit_board": {
+    "criteria": {
+      "Item": "2025-01-22 01:57:42 +0000"
+    },
+    "done": true
+  },
+  "jeg:recycler": {
+    "criteria": {
+      "Item": "2025-01-22 02:08:59 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_grit": {
+    "criteria": {
+      "Item": "2025-01-22 02:09:35 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_nugget": {
+    "criteria": {
+      "Item": "2025-01-22 02:10:05 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_ingot": {
+    "criteria": {
+      "Item": "2025-01-22 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_workbench": {
+    "criteria": {
+      "Item": "2025-01-22 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "jeg:assault_rifle": {
+    "criteria": {
+      "Item": "2025-01-22 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "silence_s_defense_tower:progress_111": {
+    "criteria": {
+      "progress_111_0": "2025-01-22 02:55:25 +0000"
+    },
+    "done": true
+  },
+  "silence_s_defense_tower:progress_1111": {
+    "criteria": {
+      "progress_1111_0": "2025-01-22 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "silence_s_defense_tower:progress_0": {
+    "criteria": {
+      "progress_0_0": "2025-01-22 02:55:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

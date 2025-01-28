@@ -6,300 +6,12 @@
   "mcVersion": "1.20.1",
   "list": [
     {
-      "file": "/mods/TerraBlender-forge-1.20.1-3.0.1.7.jar",
-      "size": "107534",
+      "file": "/mods/CreativeCore_FORGE_v2.11.28_mc1.20.1.jar",
+      "size": "1115188",
       "type": "mod",
       "editable": false,
-      "sha1": "afbb7536bdd5e723688c1eaa38df398fe15d0b18",
-      "murmur": "3829335308"
-    },
-    {
-      "file": "/mods/devices-0.8.2-forge.jar",
-      "size": "8946455",
-      "type": "mod",
-      "editable": false,
-      "sha1": "2a19f497cedf979a4e1037b5c487babfb62d20d8",
-      "murmur": "1116441015"
-    },
-    {
-      "file": "/mods/kotlinforforge-4.11.0-all.jar",
-      "size": "7193768",
-      "type": "other",
-      "editable": false,
-      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
-      "murmur": null
-    },
-    {
-      "file": "/mods/FallingTree-1.20.1-4.3.4.jar",
-      "size": "420179",
-      "type": "mod",
-      "editable": false,
-      "sha1": "44d15ae2074b761597e8b8de5846cb2f98f64d25",
-      "murmur": "3175903473"
-    },
-    {
-      "file": "/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
-      "size": "432753",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
-      "murmur": "4227743239"
-    },
-    {
-      "file": "/mods/balm-forge-1.20.1-7.3.11-all.jar",
-      "size": "373787",
-      "type": "mod",
-      "editable": false,
-      "sha1": "55e98bd34d43210f492d3aababe6583db96e3077",
-      "murmur": "180090612"
-    },
-    {
-      "file": "/mods/TaxFreeLevels-1.4.4-forge-1.20.1.jar",
-      "size": "222085",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3494e14113d37b790fcb1227802683de62cb9c82",
-      "murmur": "3328418540"
-    },
-    {
-      "file": "/mods/valkyrienrelogs-0.3.0-forge.jar",
-      "size": "14637",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e70f35486245736d1a346a5895bf05e561dffb0a",
-      "murmur": "1600768508"
-    },
-    {
-      "file": "/mods/darkster-epic-guns-tacz-+-epicfight-0.1.0.jar",
-      "size": "4544",
-      "type": "mod",
-      "editable": false,
-      "sha1": "dacbbcb578a8d2e80d0e39ace59adb29dd8d933b",
-      "murmur": "913444568"
-    },
-    {
-      "file": "/mods/eyemod-3.0.0.jar",
-      "size": "432098",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d65d65abd8b0148a646dfaee5f031edb1038b8c4",
-      "murmur": "3415725686"
-    },
-    {
-      "file": "/mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
-      "size": "136630",
-      "type": "mod",
-      "editable": false,
-      "sha1": "46825dc0adc36c4b19591bb99f7d856bc2953749",
-      "murmur": "1682223364"
-    },
-    {
-      "file": "/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
-      "size": "87550",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
-      "murmur": "3328741320"
-    },
-    {
-      "file": "/mods/BiomesOPlenty-forge-1.20.1-19.0.0.94.jar",
-      "size": "22378752",
-      "type": "mod",
-      "editable": false,
-      "sha1": "b2476d95a48f5ff306471ff74690d85e793c67cb",
-      "murmur": "3547234429"
-    },
-    {
-      "file": "/mods/eureka-1201-1.5.1-beta.3.jar",
-      "size": "501311",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e506f80fb2ece9c54b80df2256980b0b97705b40",
-      "murmur": "2267337675"
-    },
-    {
-      "file": "/mods/Mekanism-1.20.1-10.4.6.20.jar",
-      "size": "12550196",
-      "type": "mod",
-      "editable": false,
-      "sha1": "728c25f3c3638f9336f15503f94d1073a48ddc42",
-      "murmur": "2546401796"
-    },
-    {
-      "file": "/mods/ironchest-1.20.1-14.4.3.jar",
-      "size": "311324",
-      "type": "mod",
-      "editable": false,
-      "sha1": "24e227bb093ebf36935c405f129da6308ea493df",
-      "murmur": "1435431407"
-    },
-    {
-      "file": "/mods/wooltostring-v1.1.1-forge-1.20.x.jar",
-      "size": "142544",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c8c684d25ec0ab802b189b285759340a428f5fd5",
-      "murmur": "260042535"
-    },
-    {
-      "file": "/mods/ad_astra-forge-1.20.1-1.15.19.jar",
-      "size": "7508247",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ff0103224186be21463a784767459554debc1f33",
-      "murmur": "3014021741"
-    },
-    {
-      "file": "/mods/MekanismGenerators-1.20.1-10.4.6.20.jar",
-      "size": "1053795",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f84eb089018308df6260a87cadc808518343dcce",
-      "murmur": "3291517998"
-    },
-    {
-      "file": "/mods/GunpowderLib-1.20.2-2.2.2.jar",
-      "size": "19892",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3001eabbd0fff312bd19e8dc4cc344a0dc23e35d",
-      "murmur": "3525527856"
-    },
-    {
-      "file": "/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-      "size": "206584",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
-      "murmur": "3016368264"
-    },
-    {
-      "file": "/mods/uchicraftana-1.0.1-forge-1.20.1.jar",
-      "size": "18464",
-      "type": "mod",
-      "editable": false,
-      "sha1": "034497a234c82cdb7841ff0b5c4cf2143dbea856",
-      "murmur": "3512635824"
-    },
-    {
-      "file": "/mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar",
-      "size": "726709",
-      "type": "mod",
-      "editable": false,
-      "sha1": "29e7518684c1ef7c2a573a0c57a5e942c6e2c725",
-      "murmur": "4070223373"
-    },
-    {
-      "file": "/mods/modmenu-7.2.2.jar",
-      "size": "721366",
-      "type": "mod",
-      "editable": false,
-      "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
-      "murmur": "2167359578"
-    },
-    {
-      "file": "/mods/simplemissiles-1.5.1-forge-1.20.1.jar",
-      "size": "1710327",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6e6b5ed06ef508bbcea7440127f4c3381ab45a96",
-      "murmur": "1258451430"
-    },
-    {
-      "file": "/mods/recipe_generator-0.2.3.1_release-forge-1.20.1.jar",
-      "size": "666910",
-      "type": "mod",
-      "editable": false,
-      "sha1": "56195ddcce814865ef4f267c82bf7cc0dcadcd65",
-      "murmur": "1164879882"
-    },
-    {
-      "file": "/mods/villager-trading-plus-1.1+1.20.jar",
-      "size": "138879",
-      "type": "mod",
-      "editable": false,
-      "sha1": "22610f2dc601862e2b2c73f1172e39235485e421",
-      "murmur": "3504647328"
-    },
-    {
-      "file": "/mods/connectivity-1.20.1-6.5.jar",
-      "size": "109103",
-      "type": "mod",
-      "editable": false,
-      "sha1": "17e7e57e7c5974bffddadd36c234979859d18ad0",
-      "murmur": "1525848734"
-    },
-    {
-      "file": "/mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
-      "size": "512069",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f2c3d1aa0bef8663700b9438f789c15cfd72137d",
-      "murmur": "2448457195"
-    },
-    {
-      "file": "/mods/effs-1.1.0.jar",
-      "size": "1626108",
-      "type": "mod",
-      "editable": false,
-      "sha1": "cd28ca998fe9018a8c7ae883bda31489cd06835b",
-      "murmur": "4116655724"
-    },
-    {
-      "file": "/mods/The-Hordes-1.20.1-1.5.4.jar",
-      "size": "585941",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f3f23a178dbc42d00859e3ef7751842c6e23f18b",
-      "murmur": "3775028312"
-    },
-    {
-      "file": "/mods/trajanscore-1.6-1.20.1.jar",
-      "size": "1067590",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ae66b50c29568c0967576e521c214e1b9a6aad05",
-      "murmur": "1848007943"
-    },
-    {
-      "file": "/mods/tutorialmod-0.1-1.20.1.jar",
-      "size": "5883",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ac6a42add9ddc7dd11a331fae7e643159321616b",
-      "murmur": "1860270646"
-    },
-    {
-      "file": "/mods/gravestone-forge-1.20.1-1.0.15.jar",
-      "size": "314467",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d525e33d5c1bcf5cbd8ce53941d79e3362fbeba8",
-      "murmur": "173025313"
-    },
-    {
-      "file": "/mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
-      "size": "2613393",
-      "type": "mod",
-      "editable": false,
-      "sha1": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0",
-      "murmur": "1188811762"
-    },
-    {
-      "file": "/mods/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
-      "size": "1442805",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3d1d458f93545d342415ba417d36a2262973d10e",
-      "murmur": "3317080058"
-    },
-    {
-      "file": "/mods/framework-forge-1.20.1-0.7.12.jar",
-      "size": "308420",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e8c9dd2b134b8f9516b9428dad351abad97d4e76",
-      "murmur": "2485290252"
+      "sha1": "4b78ee9360931a001c6cb70973ee18e7fb1defc6",
+      "murmur": "2935798283"
     },
     {
       "file": "/mods/automobility-0.4.2+1.20.1-forge.jar",
@@ -310,140 +22,12 @@
       "murmur": "1614806605"
     },
     {
-      "file": "/mods/trajans-tanks-forge-1.20.1-2.6.jar",
-      "size": "556721",
-      "type": "mod",
-      "editable": false,
-      "sha1": "71ae87d0a8541512ebd40d2fa91f1a9678d5ff5b",
-      "murmur": "912725584"
-    },
-    {
-      "file": "/mods/oreharvester-1.20.1-1.4.jar",
-      "size": "61005",
-      "type": "mod",
-      "editable": false,
-      "sha1": "be04cff378f8f853d7b3c1e04396c2d04f870847",
-      "murmur": "712834940"
-    },
-    {
-      "file": "/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
-      "size": "177437",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d939ec7d3771062f24a44ee1fdfa17e476e51634",
-      "murmur": "861262244"
-    },
-    {
-      "file": "/mods/ferritecore-6.0.1-forge.jar",
-      "size": "123034",
-      "type": "mod",
-      "editable": false,
-      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
-      "murmur": "2683111440"
-    },
-    {
-      "file": "/mods/mob_grinding_utils-1.20.1-1.1.0.jar",
-      "size": "1357176",
-      "type": "mod",
-      "editable": false,
-      "sha1": "58991a3a94e1f982d0e558bed7b60226a097ae49",
-      "murmur": "658345909"
-    },
-    {
-      "file": "/mods/geckolib-forge-1.20.1-4.7.jar",
-      "size": "1004042",
-      "type": "mod",
-      "editable": false,
-      "sha1": "698d4374fb062edf68b93e05f3bf3b5873cdd260",
-      "murmur": "1050764489"
-    },
-    {
-      "file": "/mods/Quark-4.0-460.jar",
-      "size": "14818038",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3aef3c60a7f77e17c630df05cbb9da72d274b683",
-      "murmur": "2677625295"
-    },
-    {
-      "file": "/mods/MekanismAdditions-1.20.1-10.4.6.20.jar",
-      "size": "1136797",
-      "type": "mod",
-      "editable": false,
-      "sha1": "2a70ef4bba6aaccd56c352ebca648a7bca630c57",
-      "murmur": "1403791862"
-    },
-    {
-      "file": "/mods/catalogue-forge-1.20.1-1.8.0.jar",
-      "size": "240394",
-      "type": "mod",
-      "editable": false,
-      "sha1": "b8cc73db430fa6015671492d4332a65a8c2f5cae",
-      "murmur": "178522978"
-    },
-    {
-      "file": "/mods/CreativeCore_FORGE_v2.11.28_mc1.20.1.jar",
-      "size": "1115188",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4b78ee9360931a001c6cb70973ee18e7fb1defc6",
-      "murmur": "2935798283"
-    },
-    {
-      "file": "/mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
-      "size": "4841253",
-      "type": "mod",
-      "editable": false,
-      "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
-      "murmur": "1623244181"
-    },
-    {
-      "file": "/mods/FluxNetworks-1.20.1-7.2.1.15.jar",
-      "size": "515573",
-      "type": "mod",
-      "editable": false,
-      "sha1": "65cea2d3da2a6d6fd274ef1dad37a516466be22c",
-      "murmur": "1230147309"
-    },
-    {
-      "file": "/mods/curtain-mc1.20.1-1.3.2.jar",
-      "size": "597481",
-      "type": "mod",
-      "editable": false,
-      "sha1": "9f84c5e9760e08a7b9cf388d6c03f2a29e90ba32",
-      "murmur": "250147669"
-    },
-    {
       "file": "/mods/MoreMekanismProcessing-1.20.1-4.2.jar",
       "size": "623186",
       "type": "mod",
       "editable": false,
       "sha1": "29df585793580523b4334619ca82cb53b1a4b327",
       "murmur": "1215640644"
-    },
-    {
-      "file": "/mods/Zeta-1.0-24.jar",
-      "size": "991472",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e261d5550bb66cd6802597b1b33462470e3b8dae",
-      "murmur": "3876270406"
-    },
-    {
-      "file": "/mods/simpleplanes-1.20.1-5.3.3.jar",
-      "size": "890514",
-      "type": "mod",
-      "editable": false,
-      "sha1": "9b63956310cc320d89d9d371e0451378daddb22f",
-      "murmur": "1443766747"
-    },
-    {
-      "file": "/mods/configured-forge-1.20.1-2.2.3.jar",
-      "size": "418929",
-      "type": "mod",
-      "editable": false,
-      "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
-      "murmur": "3251861014"
     },
     {
       "file": "/mods/valkyrienskies-120-2.3.0-beta.5.jar",
@@ -454,60 +38,12 @@
       "murmur": "2723336174"
     },
     {
-      "file": "/mods/JustEnoughGuns-0.11.0-1.20.1.jar",
-      "size": "8203393",
+      "file": "/mods/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+      "size": "1442805",
       "type": "mod",
       "editable": false,
-      "sha1": "61da973d23c49988db1297f85b65c69070ec65c0",
-      "murmur": "2378597450"
-    },
-    {
-      "file": "/mods/refinedstorage-1.12.4.jar",
-      "size": "3300191",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5",
-      "murmur": "2357723047"
-    },
-    {
-      "file": "/mods/Atlas Lib-1.20.1-1.1.12.jar",
-      "size": "124436",
-      "type": "mod",
-      "editable": false,
-      "sha1": "17534bfd6878afc2da5d990fe6fc348b2606530c",
-      "murmur": "1355443815"
-    },
-    {
-      "file": "/mods/PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
-      "size": "1002463",
-      "type": "mod",
-      "editable": false,
-      "sha1": "89f824435c168d5156cd6aa9e90281bb72dc335c",
-      "murmur": "3056742079"
-    },
-    {
-      "file": "/mods/XaerosWorldMap_1.39.2_Fabric_1.20.jar",
-      "size": "950403",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4bce8020d2a50c453bfd941798c8f0f2ee714230",
-      "murmur": "2246653484"
-    },
-    {
-      "file": "/mods/botarium-forge-1.20.1-2.3.4.jar",
-      "size": "157633",
-      "type": "mod",
-      "editable": false,
-      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
-      "murmur": "752547332"
-    },
-    {
-      "file": "/mods/WeaponsOfMiracles-20.1.8.5.6.jar",
-      "size": "14050970",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1d34646f2aaaced8f2a5a44c13107bd473038c21",
-      "murmur": "2750897415"
+      "sha1": "3d1d458f93545d342415ba417d36a2262973d10e",
+      "murmur": "3317080058"
     },
     {
       "file": "/mods/SereneSeasons-fabric-1.20.1-9.1.0.0.jar",
@@ -518,44 +54,84 @@
       "murmur": "1967510369"
     },
     {
-      "file": "/mods/collective-1.20.1-7.87.jar",
-      "size": "648876",
+      "file": "/mods/catalogue-forge-1.20.1-1.8.0.jar",
+      "size": "240394",
       "type": "mod",
       "editable": false,
-      "sha1": "6b30430c4737fddf0ee1913a198bcce0f5230a21",
-      "murmur": "3693531199"
+      "sha1": "b8cc73db430fa6015671492d4332a65a8c2f5cae",
+      "murmur": "178522978"
     },
     {
-      "file": "/mods/cupboard-1.20.1-2.7.jar",
-      "size": "25983",
+      "file": "/mods/ferritecore-6.0.1-forge.jar",
+      "size": "123034",
       "type": "mod",
       "editable": false,
-      "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
-      "murmur": "4091473499"
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "murmur": "2683111440"
     },
     {
-      "file": "/mods/jei-1.20.1-forge-15.3.0.4.jar",
-      "size": "1127828",
+      "file": "/mods/tutorialmod-0.1-1.20.1.jar",
+      "size": "5883",
       "type": "mod",
       "editable": false,
-      "sha1": "1a431d34991d51998f9971c4291bac2d58eaa154",
-      "murmur": "469612569"
+      "sha1": "ac6a42add9ddc7dd11a331fae7e643159321616b",
+      "murmur": "1860270646"
     },
     {
-      "file": "/mods/elevatorid-1.20.1-lex-1.9.jar",
-      "size": "188132",
+      "file": "/mods/wooltostring-v1.1.1-forge-1.20.x.jar",
+      "size": "142544",
       "type": "mod",
       "editable": false,
-      "sha1": "04f3ee97d8881f4dd6b4e2c8c5ba4e1785e2f2c7",
-      "murmur": "3535581584"
+      "sha1": "c8c684d25ec0ab802b189b285759340a428f5fd5",
+      "murmur": "260042535"
     },
     {
-      "file": "/mods/MekanismTools-1.20.1-10.4.6.20.jar",
-      "size": "517997",
+      "file": "/mods/mob_grinding_utils-1.20.1-1.1.0.jar",
+      "size": "1357176",
       "type": "mod",
       "editable": false,
-      "sha1": "6ca885b2299f6c36593ebdfbe36e83a371a64dfc",
-      "murmur": "2094412156"
+      "sha1": "58991a3a94e1f982d0e558bed7b60226a097ae49",
+      "murmur": "658345909"
+    },
+    {
+      "file": "/mods/uchicraftana-1.0.1-forge-1.20.1.jar",
+      "size": "18464",
+      "type": "mod",
+      "editable": false,
+      "sha1": "034497a234c82cdb7841ff0b5c4cf2143dbea856",
+      "murmur": "3512635824"
+    },
+    {
+      "file": "/mods/kotlinforforge-4.11.0-all.jar",
+      "size": "7193768",
+      "type": "other",
+      "editable": false,
+      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+      "murmur": null
+    },
+    {
+      "file": "/mods/connectivity-1.20.1-6.5.jar",
+      "size": "109103",
+      "type": "mod",
+      "editable": false,
+      "sha1": "17e7e57e7c5974bffddadd36c234979859d18ad0",
+      "murmur": "1525848734"
+    },
+    {
+      "file": "/mods/darkster-epic-guns-tacz-+-epicfight-0.1.0.jar",
+      "size": "4544",
+      "type": "mod",
+      "editable": false,
+      "sha1": "dacbbcb578a8d2e80d0e39ace59adb29dd8d933b",
+      "murmur": "913444568"
+    },
+    {
+      "file": "/mods/Mekanism-1.20.1-10.4.6.20.jar",
+      "size": "12550196",
+      "type": "mod",
+      "editable": false,
+      "sha1": "728c25f3c3638f9336f15503f94d1073a48ddc42",
+      "murmur": "2546401796"
     },
     {
       "file": "/mods/Exchangers-1.20.1-3.5.1.jar",
@@ -566,12 +142,124 @@
       "murmur": "2695198560"
     },
     {
+      "file": "/mods/geckolib-forge-1.20.1-4.7.jar",
+      "size": "1004042",
+      "type": "mod",
+      "editable": false,
+      "sha1": "698d4374fb062edf68b93e05f3bf3b5873cdd260",
+      "murmur": "1050764489"
+    },
+    {
+      "file": "/mods/elevatorid-1.20.1-lex-1.9.jar",
+      "size": "188132",
+      "type": "mod",
+      "editable": false,
+      "sha1": "04f3ee97d8881f4dd6b4e2c8c5ba4e1785e2f2c7",
+      "murmur": "3535581584"
+    },
+    {
+      "file": "/mods/recipe_generator-0.2.3.1_release-forge-1.20.1.jar",
+      "size": "666910",
+      "type": "mod",
+      "editable": false,
+      "sha1": "56195ddcce814865ef4f267c82bf7cc0dcadcd65",
+      "murmur": "1164879882"
+    },
+    {
+      "file": "/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "size": "87550",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+      "murmur": "3328741320"
+    },
+    {
+      "file": "/mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+      "size": "136630",
+      "type": "mod",
+      "editable": false,
+      "sha1": "46825dc0adc36c4b19591bb99f7d856bc2953749",
+      "murmur": "1682223364"
+    },
+    {
+      "file": "/mods/jei-1.20.1-forge-15.3.0.4.jar",
+      "size": "1127828",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1a431d34991d51998f9971c4291bac2d58eaa154",
+      "murmur": "469612569"
+    },
+    {
+      "file": "/mods/villager-trading-plus-1.1+1.20.jar",
+      "size": "138879",
+      "type": "mod",
+      "editable": false,
+      "sha1": "22610f2dc601862e2b2c73f1172e39235485e421",
+      "murmur": "3504647328"
+    },
+    {
       "file": "/mods/architectury-9.2.14-forge.jar",
       "size": "580602",
       "type": "mod",
       "editable": false,
       "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
       "murmur": "98480002"
+    },
+    {
+      "file": "/mods/easy-villagers-forge-1.20.1-1.1.4.jar",
+      "size": "410553",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c70e295a58aaca4bac905301f8733924c6c7b4a8",
+      "murmur": "3486091656"
+    },
+    {
+      "file": "/mods/simpleplanes-1.20.1-5.3.3.jar",
+      "size": "890514",
+      "type": "mod",
+      "editable": false,
+      "sha1": "9b63956310cc320d89d9d371e0451378daddb22f",
+      "murmur": "1443766747"
+    },
+    {
+      "file": "/mods/eyemod-3.0.0.jar",
+      "size": "432098",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d65d65abd8b0148a646dfaee5f031edb1038b8c4",
+      "murmur": "3415725686"
+    },
+    {
+      "file": "/mods/cupboard-1.20.1-2.7.jar",
+      "size": "25983",
+      "type": "mod",
+      "editable": false,
+      "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
+      "murmur": "4091473499"
+    },
+    {
+      "file": "/mods/trajans-tanks-forge-1.20.1-2.6.jar",
+      "size": "556721",
+      "type": "mod",
+      "editable": false,
+      "sha1": "71ae87d0a8541512ebd40d2fa91f1a9678d5ff5b",
+      "murmur": "912725584"
+    },
+    {
+      "file": "/mods/gravestone-forge-1.20.1-1.0.15.jar",
+      "size": "314467",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d525e33d5c1bcf5cbd8ce53941d79e3362fbeba8",
+      "murmur": "173025313"
+    },
+    {
+      "file": "/mods/GunpowderLib-1.20.2-2.2.2.jar",
+      "size": "19892",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3001eabbd0fff312bd19e8dc4cc344a0dc23e35d",
+      "murmur": "3525527856"
     },
     {
       "file": "/mods/packedup-1.0.30-forge-mc1.20.jar",
@@ -582,28 +270,44 @@
       "murmur": "2510931269"
     },
     {
-      "file": "/mods/silence_s_turrets-2.8.3-forge-1.20.1.jar",
-      "size": "6609054",
+      "file": "/mods/XaerosWorldMap_1.39.2_Fabric_1.20.jar",
+      "size": "950403",
       "type": "mod",
       "editable": false,
-      "sha1": "04e600b75e22973f28d19e79cab200acd57c2b34",
-      "murmur": "1600946851"
+      "sha1": "4bce8020d2a50c453bfd941798c8f0f2ee714230",
+      "murmur": "2246653484"
     },
     {
-      "file": "/mods/CraftTweaker-forge-1.20.1-14.0.50.jar",
-      "size": "3261418",
+      "file": "/mods/FluxNetworks-1.20.1-7.2.1.15.jar",
+      "size": "515573",
       "type": "mod",
       "editable": false,
-      "sha1": "98e0d92aa86d5159e1a64572fa055a9a638aa1b6",
-      "murmur": "128485226"
+      "sha1": "65cea2d3da2a6d6fd274ef1dad37a516466be22c",
+      "murmur": "1230147309"
     },
     {
-      "file": "/mods/effortlessbuilding-1.20.1-3.9-all.jar",
-      "size": "1382059",
+      "file": "/mods/effs-1.1.0.jar",
+      "size": "1626108",
       "type": "mod",
       "editable": false,
-      "sha1": "e40ba48270264f68d34c0438dd3f4d022f8ccf3d",
-      "murmur": "1681087810"
+      "sha1": "cd28ca998fe9018a8c7ae883bda31489cd06835b",
+      "murmur": "4116655724"
+    },
+    {
+      "file": "/mods/oreharvester-1.20.1-1.4.jar",
+      "size": "61005",
+      "type": "mod",
+      "editable": false,
+      "sha1": "be04cff378f8f853d7b3c1e04396c2d04f870847",
+      "murmur": "712834940"
+    },
+    {
+      "file": "/mods/valkyrienrelogs-0.3.0-forge.jar",
+      "size": "14637",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e70f35486245736d1a346a5895bf05e561dffb0a",
+      "murmur": "1600768508"
     },
     {
       "file": "/mods/quickstack-1.20.1-1.jar",
@@ -614,6 +318,158 @@
       "murmur": "1436660289"
     },
     {
+      "file": "/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": "432753",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "murmur": "4227743239"
+    },
+    {
+      "file": "/mods/MekanismAdditions-1.20.1-10.4.6.20.jar",
+      "size": "1136797",
+      "type": "mod",
+      "editable": false,
+      "sha1": "2a70ef4bba6aaccd56c352ebca648a7bca630c57",
+      "murmur": "1403791862"
+    },
+    {
+      "file": "/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "size": "206584",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+      "murmur": "3016368264"
+    },
+    {
+      "file": "/mods/modmenu-7.2.2.jar",
+      "size": "721366",
+      "type": "mod",
+      "editable": false,
+      "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
+      "murmur": "2167359578"
+    },
+    {
+      "file": "/mods/The-Hordes-1.20.1-1.5.4.jar",
+      "size": "585941",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f3f23a178dbc42d00859e3ef7751842c6e23f18b",
+      "murmur": "3775028312"
+    },
+    {
+      "file": "/mods/BiomesOPlenty-forge-1.20.1-19.0.0.94.jar",
+      "size": "22378752",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b2476d95a48f5ff306471ff74690d85e793c67cb",
+      "murmur": "3547234429"
+    },
+    {
+      "file": "/mods/PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
+      "size": "1002463",
+      "type": "mod",
+      "editable": false,
+      "sha1": "89f824435c168d5156cd6aa9e90281bb72dc335c",
+      "murmur": "3056742079"
+    },
+    {
+      "file": "/mods/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+      "size": "107534",
+      "type": "mod",
+      "editable": false,
+      "sha1": "afbb7536bdd5e723688c1eaa38df398fe15d0b18",
+      "murmur": "3829335308"
+    },
+    {
+      "file": "/mods/MekanismGenerators-1.20.1-10.4.6.20.jar",
+      "size": "1053795",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f84eb089018308df6260a87cadc808518343dcce",
+      "murmur": "3291517998"
+    },
+    {
+      "file": "/mods/devices-0.8.2-forge.jar",
+      "size": "8946455",
+      "type": "mod",
+      "editable": false,
+      "sha1": "2a19f497cedf979a4e1037b5c487babfb62d20d8",
+      "murmur": "1116441015"
+    },
+    {
+      "file": "/mods/MekanismTools-1.20.1-10.4.6.20.jar",
+      "size": "517997",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6ca885b2299f6c36593ebdfbe36e83a371a64dfc",
+      "murmur": "2094412156"
+    },
+    {
+      "file": "/mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar",
+      "size": "726709",
+      "type": "mod",
+      "editable": false,
+      "sha1": "29e7518684c1ef7c2a573a0c57a5e942c6e2c725",
+      "murmur": "4070223373"
+    },
+    {
+      "file": "/mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "size": "2613393",
+      "type": "mod",
+      "editable": false,
+      "sha1": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0",
+      "murmur": "1188811762"
+    },
+    {
+      "file": "/mods/CraftTweaker-forge-1.20.1-14.0.50.jar",
+      "size": "3261418",
+      "type": "mod",
+      "editable": false,
+      "sha1": "98e0d92aa86d5159e1a64572fa055a9a638aa1b6",
+      "murmur": "128485226"
+    },
+    {
+      "file": "/mods/Quark-4.0-460.jar",
+      "size": "14818038",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3aef3c60a7f77e17c630df05cbb9da72d274b683",
+      "murmur": "2677625295"
+    },
+    {
+      "file": "/mods/ad_astra-forge-1.20.1-1.15.19.jar",
+      "size": "7508247",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ff0103224186be21463a784767459554debc1f33",
+      "murmur": "3014021741"
+    },
+    {
+      "file": "/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "size": "20299",
+      "type": "mod",
+      "editable": false,
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+      "murmur": "1243520454"
+    },
+    {
+      "file": "/mods/balm-forge-1.20.1-7.3.11-all.jar",
+      "size": "373787",
+      "type": "mod",
+      "editable": false,
+      "sha1": "55e98bd34d43210f492d3aababe6583db96e3077",
+      "murmur": "180090612"
+    },
+    {
+      "file": "/mods/eureka-1201-1.5.1-beta.3.jar",
+      "size": "501311",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e506f80fb2ece9c54b80df2256980b0b97705b40",
+      "murmur": "2267337675"
+    },
+    {
       "file": "/mods/infinitetrading-1.20.1-4.3.jar",
       "size": "27342",
       "type": "mod",
@@ -622,12 +478,172 @@
       "murmur": "4022274996"
     },
     {
+      "file": "/mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "size": "4841253",
+      "type": "mod",
+      "editable": false,
+      "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
+      "murmur": "1623244181"
+    },
+    {
+      "file": "/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+      "size": "177437",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d939ec7d3771062f24a44ee1fdfa17e476e51634",
+      "murmur": "861262244"
+    },
+    {
+      "file": "/mods/ironchest-1.20.1-14.4.3.jar",
+      "size": "311324",
+      "type": "mod",
+      "editable": false,
+      "sha1": "24e227bb093ebf36935c405f129da6308ea493df",
+      "murmur": "1435431407"
+    },
+    {
       "file": "/mods/epicfight-forge-20.9.6-1.20.1.jar",
       "size": "6772128",
       "type": "mod",
       "editable": false,
       "sha1": "e6e626d4955a92da24b84f3a408dff04ab4c5459",
       "murmur": "47930829"
+    },
+    {
+      "file": "/mods/curtain-mc1.20.1-1.3.2.jar",
+      "size": "597481",
+      "type": "mod",
+      "editable": false,
+      "sha1": "9f84c5e9760e08a7b9cf388d6c03f2a29e90ba32",
+      "murmur": "250147669"
+    },
+    {
+      "file": "/mods/simplemissiles-1.5.1-forge-1.20.1.jar",
+      "size": "1710327",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6e6b5ed06ef508bbcea7440127f4c3381ab45a96",
+      "murmur": "1258451430"
+    },
+    {
+      "file": "/mods/botarium-forge-1.20.1-2.3.4.jar",
+      "size": "157633",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+      "murmur": "752547332"
+    },
+    {
+      "file": "/mods/TaxFreeLevels-1.4.4-forge-1.20.1.jar",
+      "size": "222085",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3494e14113d37b790fcb1227802683de62cb9c82",
+      "murmur": "3328418540"
+    },
+    {
+      "file": "/mods/silence_s_turrets-2.8.3-forge-1.20.1.jar",
+      "size": "6609054",
+      "type": "mod",
+      "editable": false,
+      "sha1": "04e600b75e22973f28d19e79cab200acd57c2b34",
+      "murmur": "1600946851"
+    },
+    {
+      "file": "/mods/JustEnoughGuns-0.11.0-1.20.1.jar",
+      "size": "8203393",
+      "type": "mod",
+      "editable": false,
+      "sha1": "61da973d23c49988db1297f85b65c69070ec65c0",
+      "murmur": "2378597450"
+    },
+    {
+      "file": "/mods/trajanscore-1.6-1.20.1.jar",
+      "size": "1067590",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ae66b50c29568c0967576e521c214e1b9a6aad05",
+      "murmur": "1848007943"
+    },
+    {
+      "file": "/mods/WeaponsOfMiracles-20.1.8.5.6.jar",
+      "size": "14050970",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1d34646f2aaaced8f2a5a44c13107bd473038c21",
+      "murmur": "2750897415"
+    },
+    {
+      "file": "/mods/effortlessbuilding-1.20.1-3.9-all.jar",
+      "size": "1382059",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e40ba48270264f68d34c0438dd3f4d022f8ccf3d",
+      "murmur": "1681087810"
+    },
+    {
+      "file": "/mods/framework-forge-1.20.1-0.7.12.jar",
+      "size": "308420",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e8c9dd2b134b8f9516b9428dad351abad97d4e76",
+      "murmur": "2485290252"
+    },
+    {
+      "file": "/mods/refinedstorage-1.12.4.jar",
+      "size": "3300191",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5",
+      "murmur": "2357723047"
+    },
+    {
+      "file": "/mods/collective-1.20.1-7.87.jar",
+      "size": "648876",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6b30430c4737fddf0ee1913a198bcce0f5230a21",
+      "murmur": "3693531199"
+    },
+    {
+      "file": "/mods/configured-forge-1.20.1-2.2.3.jar",
+      "size": "418929",
+      "type": "mod",
+      "editable": false,
+      "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+      "murmur": "3251861014"
+    },
+    {
+      "file": "/mods/FallingTree-1.20.1-4.3.4.jar",
+      "size": "420179",
+      "type": "mod",
+      "editable": false,
+      "sha1": "44d15ae2074b761597e8b8de5846cb2f98f64d25",
+      "murmur": "3175903473"
+    },
+    {
+      "file": "/mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
+      "size": "512069",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f2c3d1aa0bef8663700b9438f789c15cfd72137d",
+      "murmur": "2448457195"
+    },
+    {
+      "file": "/mods/Zeta-1.0-24.jar",
+      "size": "991472",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e261d5550bb66cd6802597b1b33462470e3b8dae",
+      "murmur": "3876270406"
+    },
+    {
+      "file": "/mods/Atlas Lib-1.20.1-1.1.12.jar",
+      "size": "124436",
+      "type": "mod",
+      "editable": false,
+      "sha1": "17534bfd6878afc2da5d990fe6fc348b2606530c",
+      "murmur": "1355443815"
     }
   ]
 }
